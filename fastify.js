@@ -5,7 +5,7 @@
   1) Go to this file Directory
   2) open terminal or cmd and type npm fastify.js to start server 
   3) open browser and type https://localhost:3000/g                     
-  4) Don't forget to install fastify ..to install fastify type in terminal or cmd-->  npm i fastify --save     */
+  4) Don't forget to install fastify ..to install fastify type in terminal or cmd-->  npm i fastify --save    */
 
 const fastify = require('fastify')
 const app = fastify()
